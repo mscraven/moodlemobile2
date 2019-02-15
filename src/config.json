@@ -1,9 +1,9 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
-    "versioncode": 3600,
-    "versionname": "3.6.0",
+    "app_id": "org.moodle.unicef",
+    "appname": "Unicef Moodle App",
+    "desktopappname": "Unicef Moodle Desktop",
+    "versioncode": 100,
+    "versionname": "1.0",
     "cache_expiration_time": 300000,
     "default_lang": "en",
     "languages": {
@@ -65,7 +65,7 @@
         }
     },
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
+    "customurlscheme": "unicef",
     "siteurl": "",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,

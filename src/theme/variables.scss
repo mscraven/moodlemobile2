@@ -23,12 +23,13 @@ $gray-lighter:    #f5f5f5;
 $white:           #ffffff; // Background, reversed text.
 
 $blue:            #0064d2; // Link, background.
+$cyan:            #1CABE2; // Unicef main color
 $turquoise:       #007982; // Accent.
 $green:           #5e8100; // Accent.
 $red:             #cb3d4d;
 $orange:          #f98012; // Accent (never text).
 $yellow:          #fbad1a; // Accent (never text).
-$core-color:      $orange;
+$core-color:      $cyan;
 
 // Branded apps customization
 // --------------------------------------------------
@@ -131,8 +132,8 @@ $item-divider-color: $black !default;
 // --------------------------------------------------
 
 // Init screen.
-$core-color-init-screen:          #ff5c00 !default;
-$core-color-init-screen-alt:      #ff7600 !default;
+$core-color-init-screen:          #1CABE2 !default;
+$core-color-init-screen-alt:      #00aeef !default;
 $core-init-screen-spinner-color:  $white !default;
 $core-init-screen-logo-width:     60% !default;
 $core-init-screen-logo-max-width: 300px !default;
